@@ -1,0 +1,38 @@
+.wrapper {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.container {
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slot {
+  margin-bottom: 32px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+table td {
+  /*table内のtdに対して*/
+  padding: 3px 10px; /*上下3pxで左右10px*/
+  width: auto;
+  height: auto;
+  font-size: 32px;
+}
